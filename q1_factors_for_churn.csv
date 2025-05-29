@@ -1,0 +1,17 @@
+"category_type","max_churn_rate","min_churn_rate","churn_rate_gap"
+contract,42.71,2.83,39.88
+internet_service,41.89,7.40,34.49
+online_security,41.77,7.40,34.37
+tech_support,41.64,7.40,34.24
+online_backup,39.93,7.40,32.53
+device_protection,39.13,7.40,31.73
+payment_method,45.29,15.24,30.05
+streaming_movies,33.68,7.40,26.28
+streaming_tv,33.52,7.40,26.12
+senior_citizen,41.68,23.61,18.07
+paperless_billing,33.57,16.33,17.24
+dependents,31.28,15.45,15.83
+partner,32.96,19.66,13.30
+multiple_lines,28.61,24.93,3.68
+phone_Service,26.71,24.93,1.78
+gender,26.92,26.16,0.76
